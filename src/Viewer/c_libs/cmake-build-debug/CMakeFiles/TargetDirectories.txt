@@ -1,0 +1,3 @@
+/Users/aredicus/Desktop/projects/C_projects/C8_3DViewer_v1.0-1/src/Viewer/c_libs/cmake-build-debug/CMakeFiles/test.dir
+/Users/aredicus/Desktop/projects/C_projects/C8_3DViewer_v1.0-1/src/Viewer/c_libs/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/aredicus/Desktop/projects/C_projects/C8_3DViewer_v1.0-1/src/Viewer/c_libs/cmake-build-debug/CMakeFiles/rebuild_cache.dir
